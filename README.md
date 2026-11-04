@@ -17,9 +17,9 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/ellawynn-sian/">LinkedIn</a> •
+  <a href="https://github.com/EllawynnS">GitHub</a> •
+  <a href="mailto:ellawynn.sian@icloud.com">Email</a>
 </p>
 
 </div>

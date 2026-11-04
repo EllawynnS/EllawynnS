@@ -41,19 +41,19 @@ I like projects where code meets the physical world: sensors, microcontrollers, 
 ## 📂 Featured Projects
 
 ### 🔐 FPGA Combination Lock
-*SystemVerilog · Quartus · DE10-Lite FPGA*
+*SystemVerilog · Quartus · DE10-Lite FPGA* \
 A Moore FSM-based digital combination lock with password matching and diagnostic outputs. Verified through simulation and on-board hardware testing, with FSM states debugged using LEDs and HEX displays.
 
 ### 🗺️ CPATH
-*Java · JavaFX · Git*
+*Java · JavaFX · Git* \
 Lead a four-member team project that maps course requirements for Computer Engineering students. I built the JavaFX interface and navigation, and iterated on the design from peer feedback.
 
 ### 🏀 VEX Basketball Shooting Robot
-*Sensors · Autonomous control*
+*Sensors · Autonomous control* \
 Autonomous movement and sensor logic using colour and distance sensors. I recorded colour readings under varied lighting to set threshold ranges, and calibrated the distance sensor through iterative testing to improve targeting.
 
 ### 🔢 Handwritten Digit Recognition
-*Computer vision · Machine learning · SFU Invent the Future*
+*Computer vision · Machine learning · SFU Invent the Future* \
 A computer vision project that recognizes handwritten numbers, built during SFU's Invent the Future program.
 
 ---

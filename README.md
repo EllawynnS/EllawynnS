@@ -73,29 +73,52 @@ building applications that process and visualize data.
 
 ## `> Technical Skills`
 
+
+## `> Technical Skills`
+
 **Programming Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" />
 </p>
+
+| Icon | Technology | 
+|:---:|---|
+| 🔵 | C |
+| 🔵 | C++ |
+| 🐍 | Python |
+| ☕ | Java |
 
 **Hardware & Engineering**
 
 <p>
-<img src="https://img.shields.io/badge/SystemVerilog-2B2B2B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/FPGA-3949AB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ARM64%20%2F%20RISC--V-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-2B2B2B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-3949AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM64%20%2F%20RISC--V-444444?style=for-the-badge" />
 </p>
+
+- **SystemVerilog** – Hardware description language for designing digital circuits.
+- **Arduino** – Microcontroller platform for electronics and embedded systems.
+- **FPGA** – Field-Programmable Gate Array; reconfigurable digital hardware.
+- **ARM64** – 64-bit processor architecture and assembly language.
+- **RISC-V** – Open-standard instruction set architecture and assembly language.
 
 **Tools & Software**
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,matlab&theme=dark" />
-<img src="https://img.shields.io/badge/SolidWorks-EA1C2D?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white" />
-<img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=linux,matlab&theme=dark" />
+  <img src="https://img.shields.io/badge/SolidWorks-EA1C2D?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge" />
 </p>
+
+- **Linux** – Operating system environment for software development.
+- **MATLAB** – Numerical computing, data analysis, and visualization.
+- **SolidWorks** – 3D CAD software for mechanical design and modeling.
+- **ArcGIS** – Geographic Information System (GIS) software for spatial data analysis and mapping.
+- **Quartus Prime** – FPGA design software for developing and programming digital hardware.
+
 
 ---
 

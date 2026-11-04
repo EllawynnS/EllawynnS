@@ -32,7 +32,7 @@ I like projects where code meets the physical world: sensors, microcontrollers, 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F26?style=flat)
 
-**Also:** GDB · Quartus · ModelSim · QCAD · ArcGIS
+**Other:** GDB · Quartus · ModelSim · QCAD · ArcGIS
 
 **Hardware:** DE10-Lite FPGA · Arduino · sensors & motors · VEX Robotics · LEGO Mindstorms · oscilloscope, function generator, multimeter, soldering
 

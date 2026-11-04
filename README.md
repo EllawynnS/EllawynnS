@@ -1,315 +1,76 @@
+# Hi, I'm Ellawynn Sian 👋
 
-<!-- ================================================== -->
-<!-- HEADER -->
-<!-- ================================================== -->
+**Computer Engineering student at the University of British Columbia** building practical software and hardware systems. I'm especially interested in **embedded software, robotics, computer vision, geomatics, and remote sensing**.
 
-<div align="center">
-
-<img src="assets/profile-banner.png" width="100%" alt="Earth observation and engineering banner"/>
-
-<br/>
-
-<h3>Computer Engineering Student @ UBC</h3>
-
-<p>
-  Building intelligent systems at the intersection of
-  <b>engineering, technology, and the natural world.</b>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/ellawynn-sian/">LinkedIn</a> •
-  <a href="https://github.com/EllawynnS">GitHub</a> •
-  <a href="mailto:ellawynn.sian@icloud.com">Email</a>
-</p>
-
-</div>
+I like projects where code meets the physical world: sensors, microcontrollers, FPGAs, and data that comes from real environments.
 
 ---
 
-<!-- ================================================== -->
-<!-- ABOUT -->
-<!-- ================================================== -->
+## 🔭 What I'm up to
 
-## `> About Me`
+- 🤖 **UBC Rover (Rover Lab):** evaluating sensors for an onboard soil collection and laboratory system (ultrasonic, ToF, IR, load cell, encoders, IMU) and designing an electrical hub and cable-management layout in SolidWorks
+- 🎓 Studying Computer Engineering at UBC (operating systems, microcomputers & systems, data structures & algorithms)
+- 🛰️ Exploring how computer vision and remote sensing can work together with geospatial data
 
-I'm a third-year Computer Engineering student at the
-University of British Columbia interested in developing
-technology that interacts with and helps us understand
-the physical world.
+## 🛠️ Tech Stack
 
-My interests span robotics, embedded systems, computer
-vision, and geospatial technology. I enjoy working across
-hardware and software, from designing sensor systems to
-building applications that process and visualize data.
+**Languages**
 
-- 🎓 Computer Engineering @ UBC
-- 🤖 Working on robotics and autonomous systems
-- 🌎 Interested in Earth observation and remote sensing
-- 🔬 Exploring embedded systems and sensor integration
-- 🚀 Interested in planetary science and space exploration
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1a4f8b?style=flat)
+![Assembly](https://img.shields.io/badge/ARM64%20%26%20RISC--V%20Assembly-555555?style=flat)
 
----
+**Tools & Systems**
 
-<!-- ================================================== -->
-<!-- INTERESTS -->
-<!-- ================================================== -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F26?style=flat)
 
-## `> Areas of Interest`
+**Also:** GDB · Quartus · ModelSim · QCAD · ArcGIS
 
-<div align="center">
-
-| 🤖 Robotics & Embedded Systems | 🌎 Geomatics & Remote Sensing |
-|:---:|:---:|
-| 🛰️ Planetary Science | 👁️ Computer Vision & Image Processing |
-| 📡 Environmental Monitoring | ⚙️ Hardware-Software Integration |
-
-</div>
+**Hardware:** DE10-Lite FPGA · Arduino · sensors & motors · VEX Robotics · LEGO Mindstorms · oscilloscope, function generator, multimeter, soldering
 
 ---
 
-<!-- ================================================== -->
-<!-- TECHNICAL SKILLS -->
-<!-- ================================================== -->
+## 📂 Featured Projects
 
+### 🔐 FPGA Combination Lock
+*SystemVerilog · Quartus · DE10-Lite FPGA*
+A Moore FSM-based digital combination lock with password matching and diagnostic outputs. Verified through simulation and on-board hardware testing, with FSM states debugged using LEDs and HEX displays.
 
-## `> Technical Skills`
+### 🗺️ CPATH
+*Java · JavaFX · Git*
+A four-member team project (which I led) that maps course requirements for Computer Engineering students. I built the JavaFX interface and navigation, and iterated on the design from peer feedback.
 
-### Programming Languages
+### 🏀 VEX Basketball Shooting Robot
+*Sensors · Autonomous control*
+Autonomous movement and sensor logic using colour and distance sensors. I recorded colour readings under varied lighting to set threshold ranges, and calibrated the distance sensor through iterative testing to improve targeting.
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://skillicons.dev/icons?i=c&theme=dark" width="35" align="center"/>
-&nbsp; **C**
-
-Low-level programming and systems development.
-</td>
-<td width="50%">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="35" align="center"/>
-&nbsp; **C++**
-
-Object-oriented and performance-oriented software development.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="35" align="center"/>
-&nbsp; **Python**
-
-Scripting, data analysis, and application development.
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="35" align="center"/>
-&nbsp; **Java**
-
-Object-oriented programming and software development.
-</td>
-</tr>
-</table>
-
-### Hardware & Engineering
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://img.shields.io/badge/SV-2B2B2B?style=flat&logoColor=white" height="28" align="center"/>
-&nbsp; **SystemVerilog**
-
-Hardware description language for digital circuit design.
-</td>
-<td width="50%">
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="35" align="center"/>
-&nbsp; **Arduino**
-
-Microcontroller platform for electronics and embedded systems.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/FPGA-3949AB?style=flat&logoColor=white" height="28" align="center"/>
-&nbsp; **FPGA**
-
-Field-Programmable Gate Array for configurable digital hardware.
-</td>
-<td>
-<img src="https://img.shields.io/badge/ARM64-444444?style=flat&logoColor=white" height="28" align="center"/>
-&nbsp; **ARM64 Assembly**
-
-64-bit ARM instruction set architecture and assembly programming.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/RISC--V-F5A623?style=flat&logoColor=black" height="28" align="center"/>
-&nbsp; **RISC-V Assembly**
-
-Open-standard instruction set architecture and assembly programming.
-</td>
-<td></td>
-</tr>
-</table>
-
-### Tools & Software
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="35" align="center"/>
-&nbsp; **Linux**
-
-Operating system environment for development and systems programming.
-</td>
-<td width="50%">
-<img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="35" align="center"/>
-&nbsp; **MATLAB**
-
-Numerical computing, data analysis, and visualization.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/SolidWorks-EA1C2D?style=flat&logo=dassaultsystemes&logoColor=white" height="28" align="center"/>
-&nbsp; **SolidWorks**
-
-3D CAD software for mechanical design and modeling.
-</td>
-<td>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white" height="28" align="center"/>
-&nbsp; **ArcGIS**
-
-GIS software for spatial data analysis and mapping.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Quartus-0071C5?style=flat&logoColor=white" height="28" align="center"/>
-&nbsp; **Quartus Prime**
-
-FPGA design software for developing and programming digital hardware.
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="35" align="center"/>
-&nbsp; **Git**
-
-Version control for tracking changes and collaborating on software projects.
-</td>
-</tr>
-</table>
+### 🔢 Handwritten Digit Recognition
+*Computer vision · Machine learning · SFU Invent the Future*
+A computer vision project that recognizes handwritten numbers, built during SFU's Invent the Future program.
 
 ---
 
-<!-- ================================================== -->
-<!-- FEATURED PROJECTS -->
-<!-- ================================================== -->
+## 🎯 Currently Learning / Exploring
 
-## `> Featured Projects`
+- Embedded systems and firmware on microcontrollers
+- Computer vision pipelines for robotics
+- GIS and remote sensing workflows
+- Operating systems internals
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📫 Get in Touch
 
-### 🛰️ Mars Rover Environmental Monitoring Station
+- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- ✉️ Email: your.email@example.com
+- 📍 Vancouver, BC
 
-**Python · Data Visualization · Sensor Monitoring**
-
-A desktop application for monitoring environmental
-conditions and visualizing rover sensor data.
-
-Currently developing:
-- Live-style sensor data visualization
-- Environmental monitoring dashboard
-- Dynamic graphs and telemetry displays
-
-[View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 UBC Rover Lab
-
-**Robotics · Electronics · SolidWorks**
-
-Contributing to an onboard soil collection and laboratory
-system for the University Rover Challenge.
-
-Working on:
-- Sensor research and integration
-- Electrical system design
-- Enclosure and cable-management design
-
-[View Project](https://github.com/UBC-Snowbots/Science-Module)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Python Battleship
-
-**Python · Object-Oriented Programming · Algorithms**
-
-A Battleship game implementing game logic, board
-visualization, and computer-controlled opponents.
-
-- Ship placement and validation
-- Coordinate conversion
-- Win detection and AI logic
-
-[View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌎 Geospatial & Earth Observation
-
-**GIS · ArcGIS · Python**
-
-Exploring geospatial data analysis and environmental
-applications through coursework and independent learning.
-
-Areas of exploration:
-- Satellite imagery
-- Environmental change
-- Spatial data analysis
-
-[View Projects](https://github.com/YOUR_USERNAME?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================================================== -->
-<!-- GITHUB ACTIVITY -->
-<!-- ================================================== -->
-
-## `> GitHub Activity`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=4ECDC4&icon_color=4ECDC4&text_color=9CA3AF&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=4ECDC4&text_color=9CA3AF" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=4ECDC4&fire=4ECDC4&currStreakLabel=4ECDC4&sideLabels=9CA3AF&dates=9CA3AF" />
-
-</div>
-
----
-
-<!-- ================================================== -->
-<!-- FOOTER -->
-<!-- ================================================== -->
-
-<div align="center">
-
-### Explore · Build · Innovate
-
-*Curious about the world. Interested in building the tools to understand it.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071522,50:123B45,100:20A69A&height=100&section=footer" width="100%"/>
-
-</div>
+<!-- Optional: add GitHub stats once you have more public repos
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+-->

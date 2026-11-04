@@ -46,7 +46,7 @@ A Moore FSM-based digital combination lock with password matching and diagnostic
 
 ### 🗺️ CPATH
 *Java · JavaFX · Git*
-A four-member team project (which I led) that maps course requirements for Computer Engineering students. I built the JavaFX interface and navigation, and iterated on the design from peer feedback.
+Lead a four-member team project that maps course requirements for Computer Engineering students. I built the JavaFX interface and navigation, and iterated on the design from peer feedback.
 
 ### 🏀 VEX Basketball Shooting Robot
 *Sensors · Autonomous control*
@@ -67,10 +67,6 @@ A computer vision project that recognizes handwritten numbers, built during SFU'
 
 ## 📫 Get in Touch
 
-- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- ✉️ Email: your.email@example.com
+- 💼 LinkedIn: [Ellawynn Sian's LinkedIn](https://www.linkedin.com/in/ellawynn-sian)
+- ✉️ Email: ellawynn.sian@icloud.com
 - 📍 Vancouver, BC
-
-<!-- Optional: add GitHub stats once you have more public repos
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
--->
